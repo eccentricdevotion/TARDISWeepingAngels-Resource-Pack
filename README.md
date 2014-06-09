@@ -1,6 +1,6 @@
 #TARDIS Weeping Angels
 
-A companion resource pack for the TARDISWeepingAngels for the [TARDISWeepingAngels](http://dev.bukkit.org/bukkit-plugins/tardisweepingangels) Bukkit plugin. [MCPatcher](https://bitbucket.org/prupe/mcpatcher/downloads) required.
+A companion resource pack for the [TARDISWeepingAngels](http://dev.bukkit.org/bukkit-plugins/tardisweepingangels) Bukkit plugin. [MCPatcher](https://bitbucket.org/prupe/mcpatcher/downloads) required.
 
 ##Custom Item Textures
 
