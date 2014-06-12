@@ -1,0 +1,14 @@
+{
+    "are_you_my_mummy": {
+        "sounds": [
+            "are_you_my_mummy"
+        ]
+    },
+    "cyberman": {
+        "sounds": [
+            "cyberman_become",
+            "cyberman_citizen",
+            "cyberman_deleted"
+        ]
+    }
+}
