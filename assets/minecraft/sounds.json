@@ -39,5 +39,10 @@
             "sontaran_sontar_ha",
             "sontaran_stahl"
         ]
+    },
+    "vashta": {
+        "sounds": [
+            "vashta_nerada_lights"
+        ]
     }
 }
