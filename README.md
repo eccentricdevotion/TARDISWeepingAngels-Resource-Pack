@@ -4,11 +4,11 @@ A companion resource pack for the [TARDISWeepingAngels](http://dev.bukkit.org/bu
 
 ##Custom Item Textures
 
-Contains [Custom Item Textures](https://bitbucket.org/prupe/mcpatcher/wiki/Custom_Item_Textures) (CIT) for the armour worn by skeletons, zombies and pig zombies to transform them into Weeping Angels, Cybermen, Empty Children and Ice Warriors.
+Contains [Custom Item Textures](https://bitbucket.org/prupe/mcpatcher/wiki/Custom_Item_Textures) (CIT) for the armour worn by skeletons, zombies and pig zombies to transform them into Weeping Angels, Cybermen, Daleks, Empty Children, Sontarans (and Strax), Silurians, Zygons, Vashta Nerada and Ice Warriors.
 
 ##Sounds
 
-Contains custom sounds for the Cybermen and Empty Children.
+Contains custom sounds for the Cybermen, Daleks, Sontarans (and Strax), Vashta Nerada and Empty Children.
 
 ##Installation
 
