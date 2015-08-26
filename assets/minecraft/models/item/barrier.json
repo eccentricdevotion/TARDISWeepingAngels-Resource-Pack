@@ -1,0 +1,13 @@
+{
+    "parent": "builtin/generated",
+    "textures": {
+        "layer0": "items/barrier"
+    },
+    "display": {
+        "thirdperson": {
+            "rotation": [-10, -90, 115],
+            "translation": [1, -8.5, 2],
+            "scale": [1.55, 1.55, 1.55]
+        }
+    }
+}
