@@ -4,9 +4,14 @@
         "layer0": "items/barrier"
     },
     "display": {
-        "thirdperson": {
-            "rotation": [-10, -90, 115],
-            "translation": [1, -8.5, 2],
+        "thirdperson_righthand": {
+            "rotation": [10, 85, 90],
+            "translation": [-2, -14, 3.5],
+            "scale": [1.55, 1.55, 1.55]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [90, -85, 0],
+            "translation": [-2, -14, 3.5],
             "scale": [1.55, 1.55, 1.55]
         }
     }
