@@ -1,6 +1,6 @@
 #TARDIS Weeping Angels
 
-A companion resource pack for the [TARDISWeepingAngels](http://dev.bukkit.org/bukkit-plugins/tardisweepingangels) Bukkit plugin. [MCPatcher](https://bitbucket.org/prupe/mcpatcher/downloads) required.
+A companion resource pack for the [TARDISWeepingAngels](http://dev.bukkit.org/bukkit-plugins/tardisweepingangels) Bukkit plugin. [MCPatcher](https://bitbucket.org/prupe/mcpatcher/downloads) / [OptiFine](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272953-optifine-hd-b1-fps-boost-hd-textures-shaders-and) required.
 
 ##Custom Item Textures
 
