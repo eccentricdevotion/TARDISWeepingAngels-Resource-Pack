@@ -12,7 +12,7 @@ Contains custom sounds for the Cybermen, Daleks, Sontarans (and Strax), Vashta N
 
 ##Installation
 
-Click the __Download ZIP__ button to the right, then un-zip the file to your `.minecraft/resourcepacks` folder
+Click the green __Clone or download__ button above right, then the __Download ZIP__ link, then un-zip the file to your `.minecraft/resourcepacks` folder
 
 ##Alternate installation and keeping up-to-date
 
@@ -28,8 +28,9 @@ Here's a quick run down on doing that:
    * [TARDIS Weeping Angels](https://github.com/eccentricdevotion/TARDISWeepingAngels-Resource-Pack)
    * [TARDIS-MCP](https://github.com/eccentricdevotion/TARDIS-MCP)
    * [TARDIS-Sounds](https://github.com/eccentricdevotion/TARDIS-SoundResourcePack)
+   * [Skaro](https://github.com/eccentricdevotion/Skaro)
    * [Bromley Massive Vector](https://github.com/eccentricdevotion/Bromley-Massive-Vector)
-4. Click the Clone in Desktop button
+4. Click the green __Clone or download__ button, then the __Open in Desktop__ link
 5. Save the repository clone in the minecraft/resourcepacks folder
 6. Repeat steps 4 and 5 for each resource pack
 7. To update the resource pack, use the desktop client to ‘Pull’ in any changes.
