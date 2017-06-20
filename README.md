@@ -1,20 +1,20 @@
-#TARDIS Weeping Angels
+# TARDIS Weeping Angels
 
 A companion resource pack for the [TARDISWeepingAngels](http://dev.bukkit.org/bukkit-plugins/tardisweepingangels) Bukkit plugin. [MCPatcher](https://bitbucket.org/prupe/mcpatcher/downloads) / [OptiFine](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272953-optifine-hd-b1-fps-boost-hd-textures-shaders-and) required.
 
-##Custom Item Textures
+## Custom Item Textures
 
 Contains [Custom Item Textures](https://bitbucket.org/prupe/mcpatcher/wiki/Custom_Item_Textures) (CIT) for the armour worn by skeletons, zombies and pig zombies to transform them into Weeping Angels, Cybermen, Daleks, Empty Children, Sontarans (and Strax), Silurians, Zygons, Vashta Nerada and Ice Warriors.
 
-##Sounds
+## Sounds
 
 Contains custom sounds for the Cybermen, Daleks, Sontarans (and Strax), Vashta Nerada and Empty Children.
 
-##Installation
+## Installation
 
 Click the green __Clone or download__ button above right, then the __Download ZIP__ link, then un-zip the file to your `.minecraft/resourcepacks` folder
 
-##Alternate installation and keeping up-to-date
+## Alternate installation and keeping up-to-date
 
 As the TARDIS resource packs are shared in GitHub repositories, if you install a GitHub client, you can easily keep your resource packs current by syncing with any changes that are pushed to the repository.
 
