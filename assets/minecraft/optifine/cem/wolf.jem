@@ -45,13 +45,10 @@
 		"attach": false
 	},
 	{
-		"model": "k9_tail.jpm",
+		"model": "k9_none.jpm",
 		"id": "k9_tail",
 		"part": "tail",
-		"attach": false,
-		"scale": 1.2,
-		"rotate": [90, 0, 90],
-		"translate": [-8.5, 0, 0]
+		"attach": false
 	},
 	{
 		"model": "k9_none.jpm",
