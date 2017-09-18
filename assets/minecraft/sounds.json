@@ -62,5 +62,21 @@
             "silence",
             "silent_rattle"
         ]
+    },
+    "k9": {
+        "sounds": [
+            "k9_affirmative",
+            "k9_available_data",
+            "k9_danger",
+            "k9_designation",
+            "k9_efficient",
+            "k9_i_am",
+            "k9_insufficient",
+            "k9_mistress",
+            "k9_negative",
+            "k9_print_out",
+            "k9_quicker",
+            "k9_the_doctor"
+        ]
     }
 }
