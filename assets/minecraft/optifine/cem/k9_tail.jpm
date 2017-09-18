@@ -1,0 +1,54 @@
+{
+	"texture": "k9",
+	"textureSize": [512, 512],
+	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
+	"submodels": [
+		{
+		    "rotate": [0, 0, 115],
+    		"translate": [1.5, -10, 0],
+			"boxes": [
+				{
+					"coordinates": [
+						7.5,
+						-3,
+						7.5,
+						3,
+						0.5,
+						0.5
+					],
+					"uvNorth": [192, 52.8, 288, 68.8],
+					"uvEast": [192, 52.8, 288, 68.8],
+					"uvSouth": [192, 52.8, 288, 68.8],
+					"uvWest": [192, 52.8, 288, 68.8],
+					"uvUp": [192, 52.8, 288, 68.8],
+					"uvDown": [192, 52.8, 288, 68.8]
+				}
+			],
+			"id": "tail"
+		},
+		{
+   			"rotate": [0, 0, 45],
+    		"translate": [-5.75, -8.75, 0],
+			"boxes": [
+				{
+					"coordinates": [
+						10.3,
+						2.5,
+						7.5,
+						1,
+						0.5,
+						0.5
+					],
+					"uvNorth": [192, 84.8, 224, 100.8],
+					"uvEast": [192, 84.8, 224, 100.8],
+					"uvSouth": [192, 84.8, 224, 100.8],
+					"uvWest": [192, 84.8, 224, 100.8],
+					"uvUp": [192, 84.8, 224, 100.8],
+					"uvDown": [192, 84.8, 224, 100.8]
+				}
+			],
+			"id": "tip"
+		}
+	]
+}
+
