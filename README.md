@@ -1,14 +1,14 @@
 # TARDIS Weeping Angels
 
-A companion resource pack for the [TARDISWeepingAngels](http://dev.bukkit.org/bukkit-plugins/tardisweepingangels) Bukkit plugin. [MCPatcher](https://bitbucket.org/prupe/mcpatcher/downloads) / [OptiFine](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1272953-optifine-hd-b1-fps-boost-hd-textures-shaders-and) required.
+A companion resource pack for the [TARDISWeepingAngels](http://dev.bukkit.org/bukkit-plugins/tardisweepingangels) Bukkit plugin. [OptiFine](http://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1272953-optifine-hd-c6-fps-boost-dynamic-lights-shaders) required.
 
 ## Custom Item Textures
 
-Contains [Custom Item Textures](https://bitbucket.org/prupe/mcpatcher/wiki/Custom_Item_Textures) (CIT) for the armour worn by skeletons, zombies and pig zombies to transform them into Weeping Angels, Cybermen, Daleks, Empty Children, Sontarans (and Strax), Silurians, Zygons, Vashta Nerada and Ice Warriors.
+Contains [Custom Item Textures](https://bitbucket.org/prupe/mcpatcher/wiki/Custom_Item_Textures) (CIT) for the armour worn by skeletons, zombies and pig zombies to transform them into Weeping Angels, Cybermen, Daleks, Empty Children, Sontarans (and Strax), Silurians, Zygons, Vashta Nerada and Ice Warriors. Now also has a Custom Entity Model that transforms wolves into K-9.
 
 ## Sounds
 
-Contains custom sounds for the Cybermen, Daleks, Sontarans (and Strax), Vashta Nerada and Empty Children.
+Contains custom sounds for the Cybermen, Daleks, Sontarans (and Strax), Vashta Nerada, Empty Children and K-9.
 
 ## Installation
 
