@@ -4,6 +4,6 @@
         "layer0": "item/barrier"
     },
     "overrides": [
-        {"predicate": {"custom_model_data":10000001}, "model": "item/weeping_angel_wing"}
+        {"predicate": {"custom_model_data":10000001}, "model": "item/monster/weeping_angel_wing"}
 	]
 }
