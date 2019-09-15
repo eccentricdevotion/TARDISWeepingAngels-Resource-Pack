@@ -3,16 +3,7 @@
     "textures": {
         "layer0": "item/barrier"
     },
-    "display": {
-        "thirdperson_righthand": {
-            "rotation": [10, 85, 90],
-            "translation": [-2, -14, 3.5],
-            "scale": [1.55, 1.55, 1.55]
-        },
-        "thirdperson_lefthand": {
-            "rotation": [90, -85, 0],
-            "translation": [-2, -14, 3.5],
-            "scale": [1.55, 1.55, 1.55]
-        }
-    }
+    "overrides": [
+        {"predicate": {"custom_model_data":10000001}, "model": "item/weeping_angel_wing"}
+	]
 }
