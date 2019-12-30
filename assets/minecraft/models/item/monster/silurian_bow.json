@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/monster/silurian_gun",
-		"particle": "item/monster/silurian_gun"
+		"0": "item/monster/silurian/silurian_gun",
+		"particle": "item/monster/silurian/silurian_gun"
 	},
 	"elements": [
 		{

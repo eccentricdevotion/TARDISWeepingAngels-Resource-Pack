@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/monster/silurian_front",
-		"1": "item/monster/silurian_left",
-		"2": "item/monster/silurian_right",
-		"3": "item/monster/silurian_back",
-		"4": "item/monster/silurian_top",
-		"5": "item/monster/silurian_bottom",
-		"particle": "item/monster/silurian_front"
+		"0": "item/monster/silurian/silurian_front",
+		"1": "item/monster/silurian/silurian_left",
+		"2": "item/monster/silurian/silurian_right",
+		"3": "item/monster/silurian/silurian_back",
+		"4": "item/monster/silurian/silurian_top",
+		"5": "item/monster/silurian/silurian_bottom",
+		"particle": "item/monster/silurian/silurian_front"
 	},
 	"elements": [
 		{

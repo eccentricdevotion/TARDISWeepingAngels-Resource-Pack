@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/monster/zygon_front",
-		"1": "item/monster/zygon_back",
-		"2": "item/monster/zygon_bottom",
-		"3": "item/monster/zygon_left",
-		"4": "item/monster/zygon_right",
-		"5": "item/monster/zygon_top",
-		"particle": "item/monster/zygon_front"
+		"0": "item/monster/zygon/zygon_front",
+		"1": "item/monster/zygon/zygon_back",
+		"2": "item/monster/zygon/zygon_bottom",
+		"3": "item/monster/zygon/zygon_left",
+		"4": "item/monster/zygon/zygon_right",
+		"5": "item/monster/zygon/zygon_top",
+		"particle": "item/monster/zygon/zygon_front"
 	},
 	"elements": [
 		{

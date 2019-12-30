@@ -2,13 +2,13 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "item/monster/cyberman_back",
+		"0": "item/monster/cyberman/cyberman_back",
 		"1": "block/handles/handles_bottom",
-		"2": "item/monster/cyberman_front",
-		"3": "item/monster/cyberman_left",
-		"4": "item/monster/cyberman_right",
-		"5": "item/monster/cyberman_top",
-		"particle": "item/monster/cyberman_front"
+		"2": "item/monster/cyberman/cyberman_front",
+		"3": "item/monster/cyberman/cyberman_left",
+		"4": "item/monster/cyberman/cyberman_right",
+		"5": "item/monster/cyberman/cyberman_top",
+		"particle": "item/monster/cyberman/cyberman_front"
 	},
 	"elements": [
 		{
