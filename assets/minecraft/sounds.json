@@ -78,5 +78,16 @@
             "k9_quicker",
             "k9_the_doctor"
         ]
+    },
+    "ood": {
+        "category": "neutral",
+        "sounds": [
+            "ood_circle",
+            "ood_feed",
+            "ood_humanity",
+            "ood_kindness",
+            "ood_the_beast_and_his_armies",
+            "ood_we_must_feed"
+        ]
     }
 }
