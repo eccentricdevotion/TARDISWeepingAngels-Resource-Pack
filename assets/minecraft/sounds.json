@@ -103,5 +103,11 @@
         "sounds": [
             "judoon_fire"
         ]
+    },
+    "toclafane": {
+        "category": "hostile",
+        "sounds": [
+            "toclafane"
+        ]
     }
 }
