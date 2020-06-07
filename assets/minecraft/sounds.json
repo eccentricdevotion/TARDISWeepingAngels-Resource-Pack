@@ -121,5 +121,21 @@
         "sounds": [
             "toclafane"
         ]
+    },
+    "warrior": {
+        "category": "hostile",
+        "sounds": [
+            "ice_warrior_skaldak"
+        ]
+    },
+    "zygon": {
+        "category": "hostile",
+        "sounds": [
+            "zygon_command",
+            "zygon_duplicates",
+            "zygon_snarl",
+            "zygon_traitors",
+            "zygon_truth"
+        ]
     }
 }
