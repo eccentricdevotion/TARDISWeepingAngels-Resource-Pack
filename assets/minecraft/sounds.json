@@ -1,141 +1,184 @@
 {
-    "empty_child": {
-        "sounds": [
-            "empty_child_mummy",
-            "empty_child_scared"
-        ]
-    },
-    "cyberman": {
-        "sounds": [
-            "cyberman_become",
-            "cyberman_citizen",
-            "cyberman_deleted"
-        ]
-    },
-    "dalek": {
-        "sounds": [
-            "dalek_beginning",
-            "dalek_destroy",
-            "dalek_doctor",
-            "dalek_exterminate",
-            "dalek_no_more",
-            "dalek_stay",
-            "dalek_doctor_must_die"
-        ]
-    },
-    "dalek_hit": {
-        "sounds": [
-            "dalek_hit"
-        ]
-    },
-    "hath": {
-        "sounds": [
-            "hath"
-        ]
-    },
-    "sontaran": {
-        "sounds": [
-            "sontaran_too_easy",
-            "sontaran_sontar_ha",
-            "sontaran_stahl"
-        ]
-    },
-    "strax": {
-        "sounds": [
-            "strax_apathy_1",
-            "strax_apathy_2",
-            "strax_discuss"
-        ]
-    },
-    "milk": {
-        "sounds": [
-            "strax_lactic"
-        ]
-    },
-    "vashta": {
-        "sounds": [
-            "vashta_nerada_lights"
-        ]
-    },
-    "silence": {
-        "sounds": [
-            "silence",
-            "silent_rattle"
-        ]
-    },
-    "k9": {
-        "sounds": [
-            "k9_affirmative",
-            "k9_available_data",
-            "k9_danger",
-            "k9_designation",
-            "k9_efficient",
-            "k9_i_am",
-            "k9_insufficient",
-            "k9_mistress",
-            "k9_negative",
-            "k9_print_out",
-            "k9_quicker",
-            "k9_the_doctor"
-        ]
-    },
-    "ood": {
-        "category": "neutral",
-        "sounds": [
-            "ood_circle",
-            "ood_feed",
-            "ood_humanity",
-            "ood_kindness",
-            "ood_the_beast_and_his_armies",
-            "ood_we_must_feed"
-        ]
-    },
-    "silurian": {
-        "category": "hostile",
-        "sounds": [
-            "silurian_cages",
-            "silurian_come_here",
-            "silurian_destroy",
-            "silurian_how",
-            "silurian_planet",
-            "silurian_reclaim",
-            "silurian_who"
-        ]
-    },
-    "judoon": {
-        "category": "neutral",
-        "sounds": [
-            "judoon_catalogued",
-            "judoon_execution",
-            "judoon_no_kro_blo"
-        ]
-    },
-    "judoon_fire": {
-        "category": "hostile",
-        "sounds": [
-            "judoon_fire"
-        ]
-    },
-    "toclafane": {
-        "category": "hostile",
-        "sounds": [
-            "toclafane"
-        ]
-    },
-    "warrior": {
-        "category": "hostile",
-        "sounds": [
-            "ice_warrior_skaldak"
-        ]
-    },
-    "zygon": {
-        "category": "hostile",
-        "sounds": [
-            "zygon_command",
-            "zygon_duplicates",
-            "zygon_snarl",
-            "zygon_traitors",
-            "zygon_truth"
-        ]
-    }
+    "empty_child":{
+      "category":"hostile",
+      "sounds":[
+         "tardis:empty_child_mummy",
+         "tardis:empty_child_scared"
+      ],
+      "subtitle":"Empty Child speaks"
+   },
+   "cyberman":{
+      "category":"hostile",
+      "sounds":[
+         "tardis:cyberman_become",
+         "tardis:cyberman_citizen",
+         "tardis:cyberman_deleted"
+      ],
+      "subtitle":"Cyberman speaks"
+   },
+   "dalek":{
+      "category":"hostile",
+      "sounds":[
+         "tardis:dalek_beginning",
+         "tardis:dalek_destroy",
+         "tardis:dalek_doctor",
+         "tardis:dalek_exterminate",
+         "tardis:dalek_no_more",
+         "tardis:dalek_stay",
+         "tardis:dalek_doctor_must_die"
+      ],
+      "subtitle":"Dalek shouts"
+   },
+   "dalek_hit":{
+      "category":"master",
+      "sounds":[
+         "tardis:dalek_hit"
+      ],
+      "subtitle":"Metal clangs"
+   },
+   "hath":{
+      "category":"neutral",
+      "sounds":[
+         "tardis:hath"
+      ],
+      "subtitle":"Hath bubbles"
+   },
+   "headless_monk":{
+      "category":"neutral",
+      "sounds":[
+         "tardis:headless_monk"
+      ],
+      "subtitle":"Headless Monk prays"
+   },
+   "silence":{
+      "category":"hostile",
+      "sounds":[
+         "tardis:silence",
+         "tardis:silent_rattle"
+      ],
+      "subtitle":"Silent rasps"
+   },
+   "sontaran":{
+      "category":"hostile",
+      "sounds":[
+         "tardis:sontaran_too_easy",
+         "tardis:sontaran_sontar_ha",
+         "tardis:sontaran_stahl"
+      ],
+      "subtitle":"Sontaran shouts"
+   },
+   "strax":{
+      "category":"neutral",
+      "sounds":[
+         "tardis:strax_apathy_1",
+         "tardis:strax_apathy_2",
+         "tardis:strax_discuss"
+      ],
+      "subtitle":"Strax complains"
+   },
+   "milk":{
+      "category":"neutral",
+      "sounds":[
+         "tardis:strax_lactic"
+      ],
+      "subtitle":"Strax speaks"
+   },
+   "vashta":{
+      "category":"hostile",
+      "sounds":[
+         "tardis:vashta_nerada_lights"
+      ],
+      "subtitle":"Hey, who turned out the lights?"
+   },
+   "blink":{
+      "category":"voice",
+      "sounds":[
+         "tardis:blink"
+      ],
+      "subtitle":"Don't blink!"
+   },
+   "k9":{
+      "category":"neutral",
+      "sounds":[
+         "tardis:k9_affirmative",
+         "tardis:k9_available_data",
+         "tardis:k9_danger",
+         "tardis:k9_designation",
+         "tardis:k9_efficient",
+         "tardis:k9_i_am",
+         "tardis:k9_insufficient",
+         "tardis:k9_mistress",
+         "tardis:k9_negative",
+         "tardis:k9_print_out",
+         "tardis:k9_quicker",
+         "tardis:k9_the_doctor"
+      ],
+      "subtitle":"K9 speaks"
+   },
+   "ood":{
+      "category":"neutral",
+      "sounds":[
+         "tardis:ood_circle",
+         "tardis:ood_feed",
+         "tardis:ood_humanity",
+         "tardis:ood_kindness",
+         "tardis:ood_the_beast_and_his_armies",
+         "tardis:ood_we_must_feed"
+      ],
+      "subtitle":"Ood speaks"
+   },
+   "silurian":{
+      "category":"hostile",
+      "sounds":[
+         "tardis:silurian_cages",
+         "tardis:silurian_come_here",
+         "tardis:silurian_destroy",
+         "tardis:silurian_how",
+         "tardis:silurian_planet",
+         "tardis:silurian_reclaim",
+         "tardis:silurian_who"
+      ],
+      "subtitle":"Silurian shouts"
+   },
+   "judoon":{
+      "category":"neutral",
+      "sounds":[
+         "tardis:judoon_catalogued",
+         "tardis:judoon_execution",
+         "tardis:judoon_no_kro_blo"
+      ],
+      "subtitle":"Judoon shouts"
+   },
+   "judoon_fire":{
+      "category":"hostile",
+      "sounds":[
+         "tardis:judoon_fire"
+      ],
+      "subtitle":"Laser fires"
+   },
+   "toclafane":{
+      "category":"hostile",
+      "sounds":[
+         "tardis:toclafane"
+      ],
+      "subtitle":"Toclafane blades unsheath"
+   },
+   "warrior":{
+      "category":"hostile",
+      "sounds":[
+         "tardis:ice_warrior_skaldak"
+      ],
+      "subtitle":"Ice Warrior speaks"
+   },
+   "zygon":{
+      "category":"hostile",
+      "sounds":[
+         "tardis:zygon_command",
+         "tardis:zygon_duplicates",
+         "tardis:zygon_snarl",
+         "tardis:zygon_traitors",
+         "tardis:zygon_truth"
+      ],
+      "subtitle":"Zygon snarls"
+   }
 }

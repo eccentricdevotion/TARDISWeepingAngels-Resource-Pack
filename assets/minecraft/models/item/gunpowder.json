@@ -1,10 +1,10 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/gunpowder"
+        "layer0": "minecraft:item/gunpowder"
     },
     "overrides": [
-        {"predicate": {"custom_model_data":1}, "model": "item/monster/toclafane"},
-        {"predicate": {"custom_model_data":2}, "model": "item/monster/toclafane_attack"}
+        {"predicate": {"custom_model_data":1}, "model": "tardis:item/monster/toclafane/toclafane"},
+        {"predicate": {"custom_model_data":2}, "model": "tardis:item/monster/toclafane/toclafane_attack"}
 	]
 }
