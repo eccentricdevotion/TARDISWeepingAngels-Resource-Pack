@@ -1,9 +1,1 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "minecraft:item/arrow"
-    },
-	"overrides": [
-		{"predicate": {"custom_model_data":13}, "model": "tardis:item/monster/judoon/judoon_ammo"}
-	]
-}
+{"parent":"item/generated","textures":{"layer0":"minecraft:item/arrow"},"overrides":[{"predicate":{"custom_model_data":13},"model":"tardis:item/monster/judoon/judoon_ammo"}]}

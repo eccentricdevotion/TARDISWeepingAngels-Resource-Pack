@@ -1,7 +1,1 @@
-{
-    "overrides": [
-      {"predicate": {"custom_model_data":1}, "model": "tardis:item/monster/dalek/dalek_bow"},
-      {"predicate": {"custom_model_data":2}, "model": "tardis:item/monster/silurian/silurian_bow"},
-      {"predicate": {"custom_model_data":3}, "model": "tardis:item/monster/silurian/silurian_gun_arm"}
-   ]
-}
+{"overrides":[{"predicate":{"custom_model_data":1},"model":"tardis:item/monster/dalek/dalek_bow"},{"predicate":{"custom_model_data":2},"model":"tardis:item/monster/silurian/silurian_bow"},{"predicate":{"custom_model_data":3},"model":"tardis:item/monster/silurian/silurian_gun_arm"}]}
